@@ -1,6 +1,6 @@
 
 # lighttpd-centos7
-FROM openshift/base-centos7
+FROM centos/s2i-base-centos7
 
 # TODO: Put the maintainer name in the image metadata
 # MAINTAINER Your Name <your@email.com>
